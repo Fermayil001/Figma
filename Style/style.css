@@ -474,7 +474,6 @@ section .section1 .subtitle>p {
     padding: 50px 0;
     display: flex;
     border-right: 1px solid #C7C7C7;
-    justify-content: center;
     flex-direction: column;
     gap: 15px;
 }
